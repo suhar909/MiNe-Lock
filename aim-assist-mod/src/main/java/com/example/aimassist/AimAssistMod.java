@@ -1,5 +1,3 @@
-
-```java
 package com.example.aimassist;
 
 import net.fabricmc.api.ClientModInitializer;
