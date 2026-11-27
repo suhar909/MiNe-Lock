@@ -7,7 +7,6 @@
   "authors": ["YourName"],
   "contact": {},
   "license": "MIT",
-  "icon": "assets/aimassist/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": ["com.example.aimassist.AimAssistMod"]
